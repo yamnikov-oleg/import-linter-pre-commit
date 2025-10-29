@@ -1,3 +1,7 @@
+An official hook is available, prefer using it: https://github.com/seddonym/import-linter/issues/283#issuecomment-3269567628
+
+---
+
 # import-linter-pre-commit
 
 A [pre-commit](https://pre-commit.com/) hook for [import-linter](https://github.com/seddonym/import-linter).
