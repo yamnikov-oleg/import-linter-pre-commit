@@ -1,0 +1,7 @@
+- id: lint-imports
+  name: lint imports
+  description: "Run 'import-linter'"
+  entry: lint-imports
+  language: python
+  require_serial: true
+  pass_filenames: false

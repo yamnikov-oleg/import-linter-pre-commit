@@ -1,0 +1,6 @@
+[project]
+name = "import-linter-pre-commit"
+version = "0.0.0"
+dependencies = [
+    "import-linter==2.5.2",
+]
